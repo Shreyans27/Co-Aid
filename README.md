@@ -12,6 +12,3 @@ Co-Aid is a basic GUI , which takes the user input for the country and returns t
 ## Libraries Required
 1.) tkinter - pip install tkinter <br>
 2.) requests - pip install requests
-
-## Output
-![image](https://github.com/Shreyans27/Cyrus/assets/73150420/4544c405-3f46-4d66-9fad-28c8bcf3c1dc)
